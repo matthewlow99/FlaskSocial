@@ -1,0 +1,39 @@
+/* .searchUsers {
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    margin-bottom: 100px;
+}
+#follow_searchField {
+    width: 400px;
+    height: 50px;
+}
+.friendsContainer{
+    width: 15%;
+    min-width: 150px;
+    height: 100vh;
+    flex: 1;
+    background-color: rgb(195, 195, 195);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    position: fixed;
+    border-right: 2px solid black;
+}
+.friendsContainer #followEntry{
+    font-size: 16pt;
+    text-align: center;
+    width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    margin-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.friendsContainer #followEntry:hover {
+    cursor: pointer;
+    background-color: rgb(221, 221, 221);
+} */

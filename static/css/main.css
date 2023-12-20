@@ -1,0 +1,56 @@
+/* h1 {
+    color: blue;
+}
+body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: rgb(227, 227, 227);
+
+}
+* {
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.postContainer {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.postContainer > p {
+    margin-top: 20px;
+}
+.avatarImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.flexRowAlignCenter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    width: fit-content;
+}
+.postForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.postForm > textarea {
+    width: 80%;
+    min-height: 100px;
+} */
+
+.avatarImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

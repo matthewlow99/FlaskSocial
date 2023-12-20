@@ -1,0 +1,21 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+<div class="container">
+    <form method="POST" action="/account/create_account">
+        <h2 class="mt-5">Create Account Below</h2>
+        <div class="form-floating mt-5">
+            <input placeholder="Username" name="username" class="form-control"/>
+            <label>Create a username</label>
+        </div>
+        <div class="form-floating mt-3">
+            <input placeholder="Password" name="password" type="password" class="form-control"/>
+            <label>Create a password</label>
+        </div>
+        <div class="form-floating mt-3">
+            <input placeholder="Re-type password" name="password1" type="password" class="form-control"/>
+            <label>Retype your password</label>
+        </div>
+        
+        <input type="submit" value="Create Account" class="btn btn-primary mt-5"/>
+    </form>
+</div>

@@ -1,0 +1,9 @@
+.flexRowAlignCenter {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+body {
+    background-color: aliceblue !important;
+}

@@ -1,0 +1,14 @@
+/* .headerContainer {
+    height: 75px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    position:fixed;
+    width: 100%;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.headerContainer > h2 {
+    color: white;
+}
+ */
